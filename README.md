@@ -20,7 +20,7 @@ N/A
 ## Usage
 
 People go onto the site and look at the different things to learn in HTML, CSS, Git, and JavaScript. Furthermore Right click with the mouse and inspect and then go into the console
-you can look at the tops I learnt through the Prework and which topic we should study first.
+you can look at the topics I learnt through the Prework and which topic we should study first.
 
 [Main Prework Study Guide webpage](/assets/images/Prework-Study.png)
 [A Look into the console of the Study Guide page](/assets/images/Console.png)
