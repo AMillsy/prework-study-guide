@@ -3,8 +3,7 @@
 ## Description
 
 The reason for the creation of this project is that I want to better myself in Web development and I am taking the first steps to that.
-I really enjoy designing and creating new things and learning, so it was very motivating learning all the amazing things you can do with
-Web Developement.
+I really enjoy designing and creating new things and learning, so it was very motivating learning all the amazing things you can do with Web Developement.
 
 It is solving my problem of not knowing how to do Web development and is helping me on my journey to become a great Web developer.
 
